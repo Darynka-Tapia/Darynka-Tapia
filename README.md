@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🌱 I’m currently learning more about front-end and system design<br>- 💻 I'm currently working with frontend (TypeScript y Vue.js)<br>- 💬 Ask me about frontend and web design
+🌱 I’m currently learning more about front-end and system design<br>💻 I'm currently working with frontend (TypeScript y Vue.js)<br>💬 Ask me about frontend and web design
 
 
 ## 🌐 Socials:
